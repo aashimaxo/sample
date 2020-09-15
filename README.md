@@ -7,7 +7,7 @@
 <body>
     <hr>
 	<h2>Address</h2>
-	    <address>H.no. 402 Vinayak Nagar Upper Muthi Jammu, Jammu and Kashmir</address>
+	    <address>Hyd Telanga Jammu and Kashmir</address>
     <hr>
 	<h2>Block Quote</h2>
 	    <blockquote cite="http://www.worldwildlife.org/who/index.html">
@@ -22,6 +22,7 @@ For 50 years, WWF has been protecting the future of nature. The world's leading 
 		</details>
     	
 	<hr>
+	
 	<h2>Time and sub&sup</h2>
 	     2<sup>nd</sup>September 1999
     	<p>I wake up at <time> 10:00 </time> on weekends and <time>9:00 </time> on weekdays.
